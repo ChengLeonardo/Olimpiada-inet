@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using Oli_inet.Models;
+using SportStyle.Domain.Entities.Models;
 
-namespace Oli_inet.Controllers;
+namespace SportStyle.Domain.Entities.Controllers;
 
 public class HomeController : Controller
 {
